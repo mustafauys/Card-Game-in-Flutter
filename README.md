@@ -1,16 +1,7 @@
-# com
+## Screens
 
-Memory Card Game
+![İlk Gorunum](https://user-images.githubusercontent.com/51384613/109062506-13706780-76f9-11eb-8f0d-a1b78472ce74.jpg)
+![Seviye Atlama](https://user-images.githubusercontent.com/51384613/109062524-1c613900-76f9-11eb-81b7-affbbc091d01.jpg)
+![İkinci Seviye](https://user-images.githubusercontent.com/51384613/109062621-3569ea00-76f9-11eb-8042-31f43e9dff65.jpg)
+![İkinci Gorunum](https://user-images.githubusercontent.com/51384613/109062572-271bce00-76f9-11eb-8aba-4b7213728539.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
