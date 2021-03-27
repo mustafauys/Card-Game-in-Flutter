@@ -1,3 +1,7 @@
+# Card Game in Flutter
+
+The game of finding the matching cards.
+
 ## Screens
 
 ![İlk Gorunum](https://user-images.githubusercontent.com/51384613/109062506-13706780-76f9-11eb-8f0d-a1b78472ce74.jpg)
