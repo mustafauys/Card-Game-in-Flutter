@@ -4,8 +4,9 @@ The game of finding the matching cards.
 
 ## Screens
 
-![İlk Gorunum](https://user-images.githubusercontent.com/51384613/109062506-13706780-76f9-11eb-8f0d-a1b78472ce74.jpg)
-![Seviye Atlama](https://user-images.githubusercontent.com/51384613/109062524-1c613900-76f9-11eb-81b7-affbbc091d01.jpg)
-![İkinci Seviye](https://user-images.githubusercontent.com/51384613/109062621-3569ea00-76f9-11eb-8042-31f43e9dff65.jpg)
-![İkinci Gorunum](https://user-images.githubusercontent.com/51384613/109062572-271bce00-76f9-11eb-8aba-4b7213728539.jpg)
+![1](https://user-images.githubusercontent.com/51384613/158037508-8510d4ef-02d0-47ff-bbc4-1d4828fc8757.jpg)
+![6](https://user-images.githubusercontent.com/51384613/158037513-c90fbf11-9311-4d5a-bdc0-9ea63267c281.jpg)
+![3](https://user-images.githubusercontent.com/51384613/158037517-dc614e3c-39f1-494a-85bc-5cb35b586b7e.jpg)
+![4](https://user-images.githubusercontent.com/51384613/158037518-673f7137-4ddf-46d0-bc83-c350703f9e45.jpg)
+
 
